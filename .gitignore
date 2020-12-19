@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Personal files
+pem_loc.txt
+ec2_host.txt
